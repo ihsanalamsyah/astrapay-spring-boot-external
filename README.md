@@ -1,6 +1,8 @@
 # Spring Boot Astrapay Base Project
 Berikut adalah Base Project untuk aplikasi Spring Boot, yang sesuai dengan konvensi yang digunakan pada Astrapay.
 
+Lakukan run applikasi pada AstrapayBaseExternal
+
 #### Author Information:  
 - Arthur Purnama
 - Anton Rifco Susilo
